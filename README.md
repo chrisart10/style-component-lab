@@ -1,3 +1,3 @@
 # styled-component-lab
-Project about style-component by Traversy Media. 
+Project about styled-component by Traversy Media. 
  
