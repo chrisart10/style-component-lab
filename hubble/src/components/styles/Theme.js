@@ -1,5 +1,5 @@
 const theme = {
-    backgroundColors: {
+    backgroundColor: {
         header: '#ebfbff',
         body: '#f4f4f4',
         footer: '#003333'
