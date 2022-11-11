@@ -5,8 +5,10 @@ const theme = {
         footer: '#003333'
     },
     textColor: {
-        header: 'red'
-    }
+        header: 'afafasfasfsad',
+        footer:'asdffasdf'
+    },
+    mobile:'768px'
 }
 
 export default theme
