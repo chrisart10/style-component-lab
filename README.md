@@ -1,3 +1,3 @@
-# style-component-lab
+# styled-component-lab
 Project about style-component by Traversy Media. 
  
